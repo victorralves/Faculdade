@@ -1,0 +1,14 @@
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\bin\Debug\net8.0\csharp2.exe
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\bin\Debug\net8.0\csharp2.deps.json
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\bin\Debug\net8.0\csharp2.runtimeconfig.json
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\bin\Debug\net8.0\csharp2.dll
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\bin\Debug\net8.0\csharp2.pdb
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\obj\Debug\net8.0\csharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\obj\Debug\net8.0\csharp2.AssemblyInfoInputs.cache
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\obj\Debug\net8.0\csharp2.AssemblyInfo.cs
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\obj\Debug\net8.0\csharp2.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\obj\Debug\net8.0\csharp2.dll
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\obj\Debug\net8.0\refint\csharp2.dll
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\obj\Debug\net8.0\csharp2.pdb
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\obj\Debug\net8.0\csharp2.genruntimeconfig.cache
+C:\Users\WIN 10 PRO\source\repos\csharp2\csharp2\obj\Debug\net8.0\ref\csharp2.dll
